@@ -1,0 +1,29 @@
+{
+
+  "users":
+  [
+
+    {
+      "DisplayName" : "Marcus Rashford",
+      "EmailAddress" : "marcusrashford@hotmail.com",
+      "Username" : "mrashford",
+      "Password" : "45783"
+    },
+
+    {
+      "DisplayName" : "Rosa Parks",
+      "EmailAddress" : "rosaparks@hotmail.com",
+      "Username" : "rparks",
+      "Password" : "34689"
+    },
+
+
+    {
+      "DisplayName" : "Admin",
+      "EmailAddress" : "admin@example.com",
+      "Username" : "admin",
+      "Password" : "00000"
+    }
+  ]
+
+}
